@@ -1,0 +1,50 @@
+body{
+  background-color: #009999;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+h1{
+  font-family: 'Roboto', sans-serif;
+  font-size: 3rem;
+  padding:1% 5%;
+}
+h2{
+  margin-top:3%;
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+}
+.flex-container {
+  text-align: center;
+  flex-wrap: wrap;
+  display: flex;
+}
+.btn{
+  background-color: #6699ff;
+  border-radius: 10px;
+  opacity:0.6;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  transition: 0.3s;
+  width:17%;
+  padding:1% 2%;
+  margin: 0.5% 8%;
+}
+.btn:hover{
+  opacity: 1;
+}
+.image{
+  width: 13%;
+}
+.sv{
+  width:10%;
+  margin-left: 10%;
+  margin-right: 23%;
+}
+.main{
+  margin-bottom: 3%;
+}
+.score{
+  width:10%;
+  margin-left:20%;
+}
